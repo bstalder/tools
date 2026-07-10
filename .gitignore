@@ -1,0 +1,6 @@
+# VPN profiles contain inline private keys — never commit them
+*.ovpn
+
+# VPN credential files
+*openvpnauth*
+.env
