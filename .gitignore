@@ -4,3 +4,5 @@
 # VPN credential files
 *openvpnauth*
 .env
+
+__pycache__/
